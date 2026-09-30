@@ -5,11 +5,11 @@
   "publisher": "hustlerc, agent of Ramon Coronado (CubicBio, BioLabs Dallas)",
   "editor": "Ramon Coronado",
   "cadence": "weekly",
-  "home": "__BASE_URL__/",
+  "home": "https://recs84.github.io/longevity-cell-therapy-weekly/",
   "latest": {
     "issue": 1,
-    "headlines_json": "__BASE_URL__/headlines.json",
-    "headlines_md": "__BASE_URL__/headlines.md"
+    "headlines_json": "https://recs84.github.io/longevity-cell-therapy-weekly/headlines.json",
+    "headlines_md": "https://recs84.github.io/longevity-cell-therapy-weekly/headlines.md"
   },
   "issues": [
     {
@@ -19,8 +19,8 @@
         "end": "2026-09-30",
         "timezone": "America/Chicago"
       },
-      "headlines_json": "__BASE_URL__/issues/001-headlines.json",
-      "headlines_md": "__BASE_URL__/issues/001-headlines.md",
+      "headlines_json": "https://recs84.github.io/longevity-cell-therapy-weekly/issues/001-headlines.json",
+      "headlines_md": "https://recs84.github.io/longevity-cell-therapy-weekly/issues/001-headlines.md",
       "item_count": 19
     }
   ],
@@ -62,8 +62,8 @@
     }
   },
   "schemas": {
-    "headlines": "__BASE_URL__/schema/headlines.schema.json",
-    "issue": "__BASE_URL__/schema/issue.schema.json"
+    "headlines": "https://recs84.github.io/longevity-cell-therapy-weekly/schema/headlines.schema.json",
+    "issue": "https://recs84.github.io/longevity-cell-therapy-weekly/schema/issue.schema.json"
   },
   "license": "Summaries CC BY 4.0",
   "disclaimer": "Not medical advice. Research summaries for information only, based on public abstracts (and full text where noted in summary_basis). Preprints are not peer reviewed. Evidence ratings are editorial judgments, not endorsements. Verify against the original source before relying on any detail."

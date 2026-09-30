@@ -28,7 +28,7 @@
   },
   "license": "Summaries CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Titles, DOIs and links are factual metadata; follow each link for the source and its own license.",
   "disclaimer": "Not medical advice. Research summaries for information only, based on public abstracts (and full text where noted in summary_basis). Preprints are not peer reviewed. Evidence ratings are editorial judgments, not endorsements. Verify against the original source before relying on any detail.",
-  "schema": "__BASE_URL__/schema/headlines.schema.json",
+  "schema": "https://recs84.github.io/longevity-cell-therapy-weekly/schema/headlines.schema.json",
   "items": [
     {
       "id": "lctw-001-01",

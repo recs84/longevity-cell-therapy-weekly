@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "__BASE_URL__/schema/headlines.schema.json",
+  "$id": "https://recs84.github.io/longevity-cell-therapy-weekly/schema/headlines.schema.json",
   "title": "Longevity Cell Therapy Weekly: free headlines",
   "type": "object",
   "required": [

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "__BASE_URL__/schema/issue.schema.json",
+  "$id": "https://recs84.github.io/longevity-cell-therapy-weekly/schema/issue.schema.json",
   "title": "Longevity Cell Therapy Weekly issue",
   "description": "One weekly issue of a curated cell therapy and longevity research feed for AI agents. Summaries are based on public abstracts unless summary_basis says otherwise. Not medical advice.",
   "type": "object",
