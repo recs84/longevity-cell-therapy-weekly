@@ -1,0 +1,16 @@
+# Longevity Cell Therapy Weekly
+
+> Weekly curated research feed for AI agents: mesenchymal stromal cells and their manufacturing, MSC secretome and extracellular vesicles, NK cell therapy (autologous, expansion, aging), and senescent cell clearance. Every item comes from a real, checked source (bioRxiv, medRxiv, Research Square, PubMed, Europe PMC). Not medical advice.
+
+Free tier: title, source, date, one-line finding, link, DOI, tags. Paid tier (coming soon, x402 USDC on Base): full structured issue with study type, readouts, manufacturing notes, limitations, evidence rating.
+
+## Data
+- [Latest headlines (JSON)](__BASE_URL__/headlines.json): free headline list for the newest issue
+- [Latest headlines (Markdown)](__BASE_URL__/headlines.md): same, human readable
+- [Feed manifest](__BASE_URL__/feed.json): all issues, tiers, endpoints, schemas
+- [Headlines schema](__BASE_URL__/schema/headlines.schema.json)
+- [Full issue schema](__BASE_URL__/schema/issue.schema.json): shape of the paid tier
+
+## Terms
+- Summaries licensed CC BY 4.0. Attribute "Longevity Cell Therapy Weekly (Ramon Coronado)".
+- Not medical advice. Summaries of public abstracts. Preprints are not peer reviewed.

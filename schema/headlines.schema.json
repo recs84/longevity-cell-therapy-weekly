@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "__BASE_URL__/schema/headlines.schema.json",
+  "title": "Longevity Cell Therapy Weekly: free headlines",
+  "type": "object",
+  "required": [
+    "feed",
+    "tier",
+    "issue",
+    "date_range",
+    "generated_at",
+    "items",
+    "license",
+    "disclaimer"
+  ],
+  "properties": {
+    "feed": {
+      "type": "string"
+    },
+    "tier": {
+      "const": "free-headlines"
+    },
+    "issue": {
+      "type": "integer"
+    },
+    "date_range": {
+      "type": "object"
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "item_count": {
+      "type": "integer"
+    },
+    "paid_tier": {
+      "type": "object"
+    },
+    "license": {
+      "type": "string"
+    },
+    "disclaimer": {
+      "type": "string"
+    },
+    "schema": {
+      "type": "string"
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "title",
+          "source",
+          "posted_date",
+          "finding",
+          "url",
+          "doi",
+          "topic_tags",
+          "preprint"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "posted_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "finding": {
+            "type": "string",
+            "description": "One plain-language sentence, only what the source states."
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "doi": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "topic_tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "preprint": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  }
+}
