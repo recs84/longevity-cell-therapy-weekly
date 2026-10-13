@@ -1,84 +1,80 @@
-# Longevity Cell Therapy Weekly · Issue 1 · free headlines
+# Longevity Cell Therapy Weekly · Issue 2 · free headlines
 
-Window 2026-09-22 to 2026-09-30 (US Central). 19 items. Machine-readable: `001-headlines.json`.
+Window 2026-09-30 to 2026-10-12 (US Central). 18 items. Machine-readable: `002-headlines.json`.
 
 Full structured issue (study type, readouts, manufacturing notes, limitations, evidence rating, why it matters) is the paid tier: coming soon via x402.
 
-**1. [Metabolic profiling of licensed mesenchymal stromal cells reveals a disconnect between glycolytic fitness and immunomodulatory responsiveness](https://www.biorxiv.org/content/10.64898/2026.09.27.754820v1)**  
-bioRxiv (preprint) · 2026-09-28 · preprint · DOI 10.64898/2026.09.27.754820 · tags: msc, umbilical_cord_msc, licensing, cryopreservation, potency_assay, manufacturing  
-In umbilical cord and bone marrow MSCs, combined IFN-gamma plus TNF-alpha licensing raised glycolytic flux and respiratory capacity in most donors and partly improved post-thaw metabolism, but donors with better post-thaw metabolism did not consistently show stronger inflammatory biomarker responses.
+**1. [Animal-origin-free medium enhances G2/M progression while maintaining identity and genomic stability in human adipose-derived MSCs](https://doi.org/10.1186/s13287-026-05149-4)**  
+Stem Cell Research & Therapy · 2026-10-05 · DOI 10.1186/s13287-026-05149-4 · tags: msc, adipose_msc, xeno_free, media, manufacturing, genomic_stability  
+Across three adipose MSC donors and early to late passages, an animal-origin-free medium gave the shortest doubling time versus serum and serum-free media, enriched G2/M cell-cycle programs, and kept ISCT identity markers and copy number stability.
 
-**2. [Clinical manufacturing of adipose-derived stem cells for therapeutic use: current technologies, quality systems and production challenges](https://www.tandfonline.com/doi/full/10.1080/17460751.2026.2730229)**  
-Regenerative Medicine · 2026-09-27 · DOI 10.1080/17460751.2026.2730229 · tags: msc, adipose_msc, manufacturing, bioreactor, gmp, cost_of_goods, potency_assay  
-Across 46 studies published January 2020 to September 2025, automated bioreactors gave 2 to 10 fold higher adipose MSC yields than flask culture, and reported GMP production costs ranged from $15,000 to $50,000 per dose.
+**2. [Off-the-shelf cryopreserved adipose tissue and ADSCs accelerate epithelial regeneration](https://doi.org/10.1016/j.tice.2026.104017)**  
+Tissue & Cell · 2026-10-06 · DOI 10.1016/j.tice.2026.104017 · tags: msc, adipose_msc, cryopreservation, off_the_shelf, wound_healing  
+Adipose-derived stem cells stored for two months at -80 C closed rat wounds faster than cryopreserved adipose tissue or controls by day 3 (about 65% vs 54% vs 43%), with similar trends in ex vivo human skin.
 
-**3. [Stress-Induced Senescence of Human Umbilical Cord Mesenchymal Stromal Cells Caused by Mitomycin C](https://link.springer.com/10.1007/s10517-026-06738-2)**  
-Bulletin of Experimental Biology and Medicine · 2026-09-28 · DOI 10.1007/s10517-026-06738-2 · tags: msc, umbilical_cord_msc, senescence, sasp, quality_control  
-Mitomycin C (1.5 ug/mL) caused DNA damage and complete proliferation arrest in umbilical cord MSCs through p53/p21/p27 without p16, with higher IL-8 and PAI-1, but without SA-beta-gal activity, oxidative stress, mitochondrial dysfunction or lysosomal accumulation.
+**3. [Identification and Functional Characterization of CDK1, CCNB1, CCNB2, RRM2, and GTSE1 Associated with Replicative Senescence of Human Umbilical Cord-Derived Mesenchymal Stem Cells](https://doi.org/10.2174/011574888X508076260925100358)**  
+Current Stem Cell Research & Therapy · 2026-10-09 · DOI 10.2174/011574888X508076260925100358 · tags: msc, umbilical_cord_msc, replicative_senescence, passage_limits, biomarkers  
+Five cell-cycle genes (CDK1, CCNB1, CCNB2, RRM2, GTSE1) rose with passage in UC-MSCs across four donors alongside classic senescence features at passage 12, though the authors say causality is not established.
 
-**4. [TGFB1-Engineered Induced Mesenchymal Stromal Cells Exhibit High Immunomodulatory Potency and Durably Reprogram Synovial Macrophages in Osteoarthritis](https://www.biorxiv.org/content/10.64898/2026.09.24.753893v1)**  
-bioRxiv (preprint) · 2026-09-29 · preprint · DOI 10.64898/2026.09.24.753893 · tags: msc, ipsc_msc, engineered_cells, potency_assay, macrophage, osteoarthritis  
-A doxycycline-inducible, hTERT-immortalized iPSC-derived MSC line overexpressing TGFB1 matched or exceeded adipose MSC donors in a monocyte-macrophage immunomodulation assay and shifted synovial macrophages in a mouse osteoarthritis model, but did not reduce cartilage degeneration, synovitis or fibrosis.
+**4. [Synergistic reversal of mesenchymal stem cell senescence by engineered exosomal delivery of a dual miR-195/miR-188 sponge](https://doi.org/10.1016/j.exger.2026.113352)**  
+Experimental Gerontology · 2026-10-08 · DOI 10.1016/j.exger.2026.113352 · tags: msc, wharton_jelly_msc, exosomes, engineered_evs, senescence, mirna  
+Wharton's jelly MSC exosomes loaded with a miR-195/miR-188 sponge lowered p16, p53, IL-6, ROS and beta-gal in replicatively senescent adipose MSCs and were linked to restored telomere length and clonogenic capacity.
 
-**5. [Long-term monthly mesenchymal stromal cell therapy for advanced chronic lung allograft dysfunction: a single-centre safety and feasibility cohort study](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1942517/full)**  
-Frontiers in Medicine · 2026-09-14 · DOI 10.3389/fmed.2026.1942517 · tags: msc, bone_marrow_msc, allogeneic, repeat_dosing, clinical, safety  
-Six lung transplant patients with advanced, treatment-refractory chronic lung allograft dysfunction received 251 monthly IV infusions of allogeneic, HLA-unmatched bone marrow MSCs over up to 58 months with no infusion-related toxicity or serious treatment-related adverse events.
+**5. [Bioreactor cultures of brain endothelial cells produce extracellular vesicles with comparable characteristics as that of batch cultures](https://www.biorxiv.org/content/10.64898/2026.10.05.756840v1)**  
+bioRxiv (preprint) · 2026-10-06 · preprint · DOI 10.64898/2026.10.05.756840 · tags: evs, bioreactor, scale_up, manufacturing, mitochondrial_transfer  
+A CELLine AD1000 bioreactor kept brain endothelial cells about 90% viable for up to eight weeks and gave three to four times more EV protein than flasks, with comparable particle properties, mitochondrial cargo and ATP rescue.
 
-**6. [The human amniotic membrane derived MSC secretome restrains neuroinflammation and peripheral immune cell invasion of 3D neural tissue through conserved CXCL10 blockade and proteostatic rescue](https://www.researchsquare.com/article/rs-10537418/v1)**  
-Research Square (preprint) · 2026-09-24 · preprint · DOI 10.21203/rs.3.rs-10537418/v1 · tags: msc, perinatal_msc, secretome, conditioned_media, neuroinflammation, potency_biomarker  
-Conditioned medium from human amniotic membrane MSCs damped inflammatory and cell-death programs in human neural cell cultures and 3D neurospheroids, reduced CD4+ T-cell migration and splenocyte invasion of inflamed neural tissue, and CXCL10 suppression was the most consistent correlate across four model systems.
+**6. [TriPort tangential flow filtration: a lab-assembled system for EV isolation across diverse cell-culture sources](https://www.biorxiv.org/content/10.64898/2026.10.03.756465v1)**  
+bioRxiv (preprint) · 2026-10-06 · preprint · DOI 10.64898/2026.10.03.756465 · tags: evs, tff, isolation, manufacturing, conditioned_media  
+A lab-built, lower-cost tangential flow filtration rig reproducibly isolated EVs from three culture sources, and adding size-exclusion chromatography mattered most for serum-containing media, where TFF alone co-concentrated serum proteins.
 
-**7. [Cell-Free Wharton's Jelly-Derived MSC Secretome in a Polymeric Carrier for Refractory Chronic Wounds: Two Cases](https://www.mdpi.com/2306-5354/13/9/1077)**  
-Bioengineering (Basel) · 2026-09-16 · DOI 10.3390/bioengineering13091077 · tags: msc, wharton_jelly_msc, secretome, cell_free, wound_healing, clinical, aging  
-Two patients with year-plus refractory ulcers (a 95-year-old with peripheral arterial disease and a 69-year-old with a neuro-ischemic diabetic foot ulcer) reached complete closure at about 27 and 28 weeks using a cell-free Wharton's jelly MSC secretome in a thermoresponsive gel applied every three days alongside standard care.
+**7. [Cytokine priming shifts mitochondrial architecture and extracellular vesicle cargo of feline placental mesenchymal stromal cells toward an immunosuppressive phenotype](https://doi.org/10.2460/ajvr.26.05.0197)**  
+American Journal of Veterinary Research · 2026-10-05 · DOI 10.2460/ajvr.26.05.0197 · tags: msc, perinatal_msc, licensing, evs, mirna, veterinary  
+In placental MSCs from seven cats, priming with TNF-alpha, IFN-gamma, IL-1 and IL-6 kept viability above 96%, elongated mitochondria and shifted EV cargo toward anti-inflammatory miRNAs such as miR-204 and let-7g.
 
-**8. [Epithelial-endothelial barrier dysfunction and oxidative stress in ARDS subphenotypes: comparative efficacy of extracellular vesicles derived from bone marrow (MSC-EVs) and adipose tissue (ASC-EVs) mesenchymal stem cells](https://www.medrxiv.org/content/10.64898/2026.09.22.26363677v1)**  
-medRxiv (preprint) · 2026-09-23 · preprint · DOI 10.64898/2026.09.22.26363677 · tags: msc, extracellular_vesicles, ards, barrier_function, oxidative_stress, patient_stratification  
-Bone marrow and adipose MSC EVs both restored tight-junction proteins and redox balance in airway epithelial and endothelial cells injured by plasma from ARDS patients, with effects that varied by hyper- or hypoinflammatory subphenotype and by timing of dosing.
+**8. [Mesenchymal stem cell-derived extracellular vesicles modulate Th1- and STAT1-associated inflammatory responses in peripheral blood mononuclear cells from patients with osteoarthritis](https://doi.org/10.1007/s11033-026-12850-3)**  
+Molecular Biology Reports · 2026-10-07 · DOI 10.1007/s11033-026-12850-3 · tags: msc, evs, immunomodulation, osteoarthritis, potency_assay  
+MSC EVs (20 ug per million PBMCs, 48 h) cut Th1 cell frequency in PBMCs from 10 osteoarthritis patients from about 34% to 27% and lowered STAT1, IL-1 beta, IL-6 and TNF-alpha.
 
-**9. [Characterization of Umbilical Cord Mesenchymal Stromal Cells Overexpressing Klotho and In Vitro Anti-Aging Efficacy of Their Derived Extracellular Vesicles](https://pmc.ncbi.nlm.nih.gov/articles/PMC13607764/)**  
-International Journal of Molecular Sciences · 2026-09-19 · DOI 10.3390/ijms27188326 · tags: msc, umbilical_cord_msc, extracellular_vesicles, engineered_evs, klotho, senescence  
-Umbilical cord MSCs engineered to overexpress Klotho produced Klotho-enriched EVs that rescued senescent phenotypes in adult bone marrow MSCs and HK-2 renal tubular cells in vitro and restored the osteogenic capacity of adult bone marrow MSCs.
+**9. [Integrated evaluation of umbilical cord mesenchymal stromal cell-derived extracellular vesicles across skin-related cellular and zebrafish models](https://doi.org/10.3389/fbioe.2026.1939569)**  
+Frontiers in Bioengineering and Biotechnology · 2026-10-09 · DOI 10.3389/fbioe.2026.1939569 · tags: msc, umbilical_cord_msc, evs, skin, photoaging, zebrafish  
+One defined UC-MSC EV preparation reduced oxidative injury in keratinocytes, lowered UVB-induced fibroblast senescence and raised zebrafish fin regeneration from about 60% to 84% at 48 hours.
 
-**10. [A metabolic-oxidative axis contributes to NK cell cryo-vulnerability](https://linkinghub.elsevier.com/retrieve/pii/S2589004226028877)**  
-iScience · 2026-09-15 · DOI 10.1016/j.isci.2026.117508 · tags: nk_cells, cryopreservation, manufacturing, metabolism, oxidative_stress  
-Activated NK cells shifted to high glucose use and excess ROS and survived freeze-thaw poorly (about 25%), while pretreatment with glucose-metabolism inhibitors, antioxidants or lipid-peroxidation inhibitors restored post-thaw recovery to about 90% with preserved antitumor activity in mice.
+**10. [Phase IIa Trial of Locoregional High-Dose Autologous Natural Killer Cell Therapy Combined with Hepatic Arterial Infusion Chemotherapy for Locally Advanced Hepatocellular Carcinoma](https://doi.org/10.4143/crt.2026.0477)**  
+Cancer Research and Treatment · 2026-10-08 · DOI 10.4143/crt.2026.0477 · tags: nk, autologous_nk, clinical_trial, hepatocellular_carcinoma, locoregional  
+In 16 evaluable patients with refractory locally advanced liver cancer, hepatic arterial autologous NK infusion after HAIC gave an independently assessed response rate of about 69% and median overall survival of 24 months, with no severe NK-related toxicity.
 
-**11. [The Histone Methyltransferase KMT2D promotes Natural Killer cell effector molecule release](https://www.biorxiv.org/content/10.64898/2026.09.16.752157v1)**  
-bioRxiv (preprint) · 2026-09-22 · preprint · DOI 10.64898/2026.09.16.752157 · tags: nk_cells, epigenetics, cytotoxicity, potency_assay, kmt2d  
-KMT2D mutations in two NK-deficiency patients impaired cytotoxicity, and KMT2D loss in human and mouse NK cells reduced degranulation and release of granzyme B and IFN-gamma through lower H3K4me1 and RAB3D, without lowering intracellular stores.
+**11. [Fibrinogen depletion prevents non-dissociable cell aggregates of feeder-derived NK cell products](https://doi.org/10.3389/fimmu.2026.1887148)**  
+Frontiers in Immunology · 2026-10-01 · DOI 10.3389/fimmu.2026.1887148 · tags: nk, manufacturing, feeder_cells, formulation, aggregation  
+Macroscopic aggregates in feeder-expanded NK products came from feeder cells plus plasma fibrinogen together, and swapping autologous plasma for a fibrinogen-free serum substitute prevented them without hurting expansion, viability or killing.
 
-**12. [Clonal selection of somatic mutations shapes NK cell memory](https://www.biorxiv.org/content/10.64898/2026.09.17.752421v1)**  
-bioRxiv (preprint) · 2026-09-18 · preprint · DOI 10.64898/2026.09.17.752421 · tags: nk_cells, nk_memory, clonal_hematopoiesis, somatic_mutation, cmv, kmt2d, aging  
-Somatic mutation tracing in a large cohort of healthy CMV-seropositive people showed strong clonal dominance among memory NK cells with evidence of positive selection, including loss-of-function KMT2D mutations, and Kmt2d deletion in mice altered NK fitness depending on timing and context.
+**12. [Functional Exhaustion Limits CAR-NK Therapy in Glioblastoma but Can Be Mitigated by Early Repeated Dosing](https://doi.org/10.21203/rs.3.rs-10808000/v1)**  
+Research Square (preprint) · 2026-10-04 · preprint · DOI 10.21203/rs.3.rs-10808000/v1 · tags: nk, car_nk, exhaustion, dosing, glioblastoma  
+B7H3 CAR-NK cells killed glioblastoma faster than CAR-T in vitro but lost function after repeated tumor challenge and failed in mice, while early repeated dosing, not TGF-beta or IL-15 engineering, improved survival.
 
-**13. [A temporal threshold in TGF-beta signaling separates reversible tissue adaptation from persistent NK cell effector dysfunction](https://www.biorxiv.org/content/10.64898/2026.02.11.705354v2)**  
-bioRxiv (preprint, revised v2) · 2026-09-25 · preprint · DOI 10.64898/2026.02.11.705354 · tags: nk_cells, tgf_beta, epigenetics, nk_dysfunction, autologous_starting_material  
-Short TGF-beta exposure caused mostly reversible changes in human NK cells, but prolonged exposure locked in effector dysfunction through durable loss of chromatin accessibility at IRF, EOMES and T-bet motif sites, a state also seen in NK cells from hepatocellular carcinoma patients.
+**13. [PTPN22 as a novel therapeutic target: a key intracellular checkpoint for NK cell therapy](https://doi.org/10.1136/jitc-2026-016896)**  
+Journal for ImmunoTherapy of Cancer · 2026-10-01 · DOI 10.1136/jitc-2026-016896 · tags: nk, car_nk, gene_editing, checkpoint, persistence  
+Deleting or inhibiting PTPN22 boosted NK and CAR-NK killing and cytokine release, preserved function under TME-like cytokine stress, and prolonged survival in a leukemia xenograft.
 
-**14. [Natural Killer Cell-Derived Extracellular Vesicle Preparations Demonstrate Potent Antitumor Activity Against Human Glioblastoma In Vitro and In Vivo](https://isevjournals.onlinelibrary.wiley.com/doi/10.1002/jex2.70181)**  
-Journal of Extracellular Biology · 2026-09-24 · DOI 10.1002/jex2.70181 · tags: nk_cells, extracellular_vesicles, nk_secretome, cell_free, glioblastoma  
-EVs from primary expanded human NK cells killed glioblastoma lines including NK-resistant ones, slowed subcutaneous and orthotopic tumors, and prolonged survival after IV dosing in mice.
+**14. [Targeting HLA-E-NKG2A/CD94 to reverse pyroptosis-induced immunosuppression in HCC enhances NK cell antitumor activity](https://doi.org/10.21203/rs.3.rs-11115596/v1)**  
+Research Square (preprint) · 2026-10-06 · preprint · DOI 10.21203/rs.3.rs-11115596/v1 · tags: nk, nkg2a, hla_e, macrophage, hepatocellular_carcinoma  
+NK killing caused tumor pyroptosis and IL-10 release that pushed macrophages to an HLA-E-high M2 state, which suppressed NK cells through NKG2A, and blocking that axis restored NK activity in vitro and in mice.
 
-**15. [Peripheral immune signatures predict cognitive decline in older adults: a population-based cohort study](https://academic.oup.com/ageing/article-abstract/55/9/afag289/8842706)**  
-Age and Ageing · 2026-09-29 · DOI 10.1093/ageing/afag289 · tags: nk_cells, immunosenescence, aging, cognition, cohort  
-In 9,008 older adults from the Health and Retirement Study, higher CD56hi NK cells and naive B cells each independently predicted lower risk of cognitive impairment, and an immune risk score predicted incident cognitive impairment or dementia.
+**15. [Decline of chaperone-mediated autophagy in aging impairs macrophage clearance of senescent cells](https://doi.org/10.1038/s43587-026-01240-w)**  
+Nature Aging · 2026-10-06 · DOI 10.1038/s43587-026-01240-w · tags: senescence, immune_clearance, macrophage, autophagy, sasp  
+Age-related loss of chaperone-mediated autophagy made senescent cells more aged-like and their SASP blocked macrophage clearance, while drug activation of CMA cut senescent cell burden in old mice and eased lung fibrosis.
 
-**16. [Mesenchymal Stem Cells Ameliorate Acute-on-Chronic Liver Failure Associated With Expansion of Immunoregulatory Hepatic NKp46+DX5- NK Cells](https://onlinelibrary.wiley.com/doi/10.1155/jimr/2373331)**  
-Journal of Immunology Research · 2026-09-24 · DOI 10.1155/jimr/2373331 · tags: msc, nk_cells, msc_nk_crosstalk, liver, clinical  
-In HBV-related acute-on-chronic liver failure patients, MSC infusion raised peripheral NK frequency in step with liver function recovery, and in mice MSCs rescued liver failure and selectively expanded hepatic NKp46+DX5- NK cells, promoting their proliferation and GM-CSF secretion in vitro.
+**16. [uPAR-Targeting T Cell Engager Exerts Senolytic Effects in Mice and Non-Human Primates With Serum Aminotransferase Activity as a Safety Monitor](https://doi.org/10.1111/acel.70742)**  
+Aging Cell · 2026-10-01 · DOI 10.1111/acel.70742 · tags: senolytic, upar, bispecific, immunotherapy, non_human_primate  
+A uPAR-directed T cell engager cleared senescent cells and eased age-related pathology in aged mice and monkeys at low dose, while high doses caused liver toxicity that serum transaminases flagged.
 
-**17. [A Deep-Learning Based Biomarker of Systemic Cellular Senescence Burden to Predict Mortality and Health Outcomes](https://onlinelibrary.wiley.com/doi/10.1111/acel.70737)**  
-Aging Cell · 2026-09-25 · DOI 10.1111/acel.70737 · tags: senescence, sasp, biomarker, proteomics, clinical_endpoint  
-A deep-learning composite of blood SASP proteins built on UK Biobank proteomics independently predicted mortality and incident chronic disease, and its trajectory changed with multimodal exercise over 18 months in an independent randomized trial cohort.
+**17. [Methylation-associated Gene Expression (MaGE): a non-invasive, in vivo measure of cellular senescence](https://www.medrxiv.org/content/10.64898/2026.09.29.26364335v1)**  
+medRxiv (preprint) · 2026-10-01 · preprint · DOI 10.64898/2026.09.29.26364335 · tags: senescence, biomarker, dna_methylation, p16, p21, trial_endpoint  
+Blood DNA methylation proxies for p16, p21 and p14ARF expression, tested in 18,859 people, showed 45 significant links to 18 incident diseases and mortality and tracked treatment response in Crohn's disease.
 
-**18. [The p53-p21-Cyclin D2 regulatory axis drives metabolic reprogramming and a distinct senescent macrophage senotype during aging and MASLD](https://www.biorxiv.org/content/10.64898/2026.09.22.753597v1)**  
-bioRxiv (preprint) · 2026-09-28 · preprint · DOI 10.64898/2026.09.22.753597 · tags: senescence, senotype, macrophage, p21, senolytics, masld, aging  
-A p53-p21 program represses p16 in a p21-high senescent macrophage subtype, where Cyclin D2 moves to mitochondria and lipid droplets to drive metabolic reprogramming and sustain the SASP; these cells accumulate with aging and MASLD and can be selectively depleted by senolytic treatment.
-
-**19. [Extracellular Vesicles From Senescent Cancer Cells Are Necessary and Sufficient to Drive Paracrine Senescence](https://onlinelibrary.wiley.com/doi/10.1111/acel.70722)**  
-Aging Cell · 2026-09-23 · DOI 10.1111/acel.70722 · tags: senescence, sasp, extracellular_vesicles, paracrine_senescence  
-EVs from bleomycin-induced senescent A549 cancer cells were necessary and sufficient to spread senescence to neighboring tumor cells, and blocking EV biogenesis with GW4869 or RAB27A knockdown blunted paracrine senescence without changing soluble SASP secretion.
+**18. [Chronic Senolytic Treatment and/or Aerobic Exercise Reduce Senescence and Improve Myocardial Function During Aging in the Heart](https://doi.org/10.1111/acel.70759)**  
+Aging Cell · 2026-10-07 · DOI 10.1111/acel.70759 · tags: senolytic, dasatinib_quercetin, exercise, cardiac_aging  
+Nine months of dasatinib plus quercetin, aerobic exercise, or both in middle-aged mice lowered p16+, p21+ and gamma-H2AX+ heart cells and improved diastolic function, with no clear added benefit from combining them.
 
 ---
 
