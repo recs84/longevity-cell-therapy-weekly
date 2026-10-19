@@ -1,14 +1,14 @@
 {
   "feed": "Longevity Cell Therapy Weekly",
   "tier": "free-headlines",
-  "issue": 2,
+  "issue": 3,
   "date_range": {
-    "start": "2026-09-30",
-    "end": "2026-10-12",
+    "start": "2026-10-12",
+    "end": "2026-10-18",
     "timezone": "America/Chicago"
   },
-  "generated_at": "2026-10-13T18:30:00Z",
-  "item_count": 18,
+  "generated_at": "2026-10-19T13:55:00Z",
+  "item_count": 17,
   "paid_tier": {
     "status": "coming soon",
     "includes": [
@@ -31,314 +31,310 @@
   "schema": "https://recs84.github.io/longevity-cell-therapy-weekly/schema/headlines.schema.json",
   "items": [
     {
-      "id": "lctw-002-01",
-      "title": "Animal-origin-free medium enhances G2/M progression while maintaining identity and genomic stability in human adipose-derived MSCs",
-      "source": "Stem Cell Research & Therapy",
-      "posted_date": "2026-10-05",
-      "finding": "Across three adipose MSC donors and early to late passages, an animal-origin-free medium gave the shortest doubling time versus serum and serum-free media, enriched G2/M cell-cycle programs, and kept ISCT identity markers and copy number stability.",
-      "url": "https://doi.org/10.1186/s13287-026-05149-4",
-      "doi": "10.1186/s13287-026-05149-4",
-      "topic_tags": [
-        "msc",
-        "adipose_msc",
-        "xeno_free",
-        "media",
-        "manufacturing",
-        "genomic_stability"
-      ],
-      "preprint": false
-    },
-    {
-      "id": "lctw-002-02",
-      "title": "Off-the-shelf cryopreserved adipose tissue and ADSCs accelerate epithelial regeneration",
-      "source": "Tissue & Cell",
-      "posted_date": "2026-10-06",
-      "finding": "Adipose-derived stem cells stored for two months at -80 C closed rat wounds faster than cryopreserved adipose tissue or controls by day 3 (about 65% vs 54% vs 43%), with similar trends in ex vivo human skin.",
-      "url": "https://doi.org/10.1016/j.tice.2026.104017",
-      "doi": "10.1016/j.tice.2026.104017",
-      "topic_tags": [
-        "msc",
-        "adipose_msc",
-        "cryopreservation",
-        "off_the_shelf",
-        "wound_healing"
-      ],
-      "preprint": false
-    },
-    {
-      "id": "lctw-002-03",
-      "title": "Identification and Functional Characterization of CDK1, CCNB1, CCNB2, RRM2, and GTSE1 Associated with Replicative Senescence of Human Umbilical Cord-Derived Mesenchymal Stem Cells",
-      "source": "Current Stem Cell Research & Therapy",
-      "posted_date": "2026-10-09",
-      "finding": "Five cell-cycle genes (CDK1, CCNB1, CCNB2, RRM2, GTSE1) rose with passage in UC-MSCs across four donors alongside classic senescence features at passage 12, though the authors say causality is not established.",
-      "url": "https://doi.org/10.2174/011574888X508076260925100358",
-      "doi": "10.2174/011574888X508076260925100358",
-      "topic_tags": [
-        "msc",
-        "umbilical_cord_msc",
-        "replicative_senescence",
-        "passage_limits",
-        "biomarkers"
-      ],
-      "preprint": false
-    },
-    {
-      "id": "lctw-002-04",
-      "title": "Synergistic reversal of mesenchymal stem cell senescence by engineered exosomal delivery of a dual miR-195/miR-188 sponge",
-      "source": "Experimental Gerontology",
-      "posted_date": "2026-10-08",
-      "finding": "Wharton's jelly MSC exosomes loaded with a miR-195/miR-188 sponge lowered p16, p53, IL-6, ROS and beta-gal in replicatively senescent adipose MSCs and were linked to restored telomere length and clonogenic capacity.",
-      "url": "https://doi.org/10.1016/j.exger.2026.113352",
-      "doi": "10.1016/j.exger.2026.113352",
-      "topic_tags": [
-        "msc",
-        "wharton_jelly_msc",
-        "exosomes",
-        "engineered_evs",
-        "senescence",
-        "mirna"
-      ],
-      "preprint": false
-    },
-    {
-      "id": "lctw-002-05",
-      "title": "Bioreactor cultures of brain endothelial cells produce extracellular vesicles with comparable characteristics as that of batch cultures",
+      "id": "lctw-003-01",
+      "title": "Direct 3D isolation in gelatin methacryloyl microbeads versus conventional 2D isolation and culture: a trade-off between mesenchymal stromal cell purity and niche-associated transcriptional profiles",
       "source": "bioRxiv (preprint)",
-      "posted_date": "2026-10-06",
-      "finding": "A CELLine AD1000 bioreactor kept brain endothelial cells about 90% viable for up to eight weeks and gave three to four times more EV protein than flasks, with comparable particle properties, mitochondrial cargo and ATP rescue.",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756840v1",
-      "doi": "10.64898/2026.10.05.756840",
+      "posted_date": "2026-10-13",
+      "finding": "Across four human donors, day-21 2D plastic culture gave a purer MSC marker compartment than bulk GelMA 3D isolation, while one-donor scRNA-seq of GelMA microbead-derived cells (37,784 cells) found niche-associated MSC clusters within a heterogeneous marrow mix (4,840 DEGs vs 2D).",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.10.758039v1",
+      "doi": "10.64898/2026.10.10.758039",
       "topic_tags": [
-        "evs",
-        "bioreactor",
-        "scale_up",
-        "manufacturing",
-        "mitochondrial_transfer"
-      ],
-      "preprint": true
-    },
-    {
-      "id": "lctw-002-06",
-      "title": "TriPort tangential flow filtration: a lab-assembled system for EV isolation across diverse cell-culture sources",
-      "source": "bioRxiv (preprint)",
-      "posted_date": "2026-10-06",
-      "finding": "A lab-built, lower-cost tangential flow filtration rig reproducibly isolated EVs from three culture sources, and adding size-exclusion chromatography mattered most for serum-containing media, where TFF alone co-concentrated serum proteins.",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.10.03.756465v1",
-      "doi": "10.64898/2026.10.03.756465",
-      "topic_tags": [
-        "evs",
-        "tff",
+        "msc",
+        "bone_marrow_msc",
         "isolation",
-        "manufacturing",
-        "conditioned_media"
+        "3d_culture",
+        "gelma",
+        "manufacturing"
       ],
       "preprint": true
     },
     {
-      "id": "lctw-002-07",
-      "title": "Cytokine priming shifts mitochondrial architecture and extracellular vesicle cargo of feline placental mesenchymal stromal cells toward an immunosuppressive phenotype",
-      "source": "American Journal of Veterinary Research",
-      "posted_date": "2026-10-05",
-      "finding": "In placental MSCs from seven cats, priming with TNF-alpha, IFN-gamma, IL-1 and IL-6 kept viability above 96%, elongated mitochondria and shifted EV cargo toward anti-inflammatory miRNAs such as miR-204 and let-7g.",
-      "url": "https://doi.org/10.2460/ajvr.26.05.0197",
-      "doi": "10.2460/ajvr.26.05.0197",
+      "id": "lctw-003-02",
+      "title": "Osteogenic priming of canine perivascular mesenchymal stromal cells enhances extracellular vesicle yield and in vitro activity for bone regeneration",
+      "source": "Veterinary Journal",
+      "posted_date": "2026-10-14",
+      "finding": "Osteogenic priming of canine umbilical cord perivascular MSCs raised EV particle yield about 1.5-fold (5.6 +/- 0.5 x 10^10 vs 3.7 +/- 0.7 x 10^10 particles/mL) without changing size distribution or TSG101, and improved mineralization (P=0.0003) and EV-driven migration (P=0.005).",
+      "url": "https://doi.org/10.1016/j.tvjl.2026.106932",
+      "doi": "10.1016/j.tvjl.2026.106932",
       "topic_tags": [
         "msc",
-        "perinatal_msc",
-        "licensing",
+        "perivascular_msc",
         "evs",
-        "mirna",
+        "osteogenic_priming",
+        "manufacturing",
         "veterinary"
       ],
       "preprint": false
     },
     {
-      "id": "lctw-002-08",
-      "title": "Mesenchymal stem cell-derived extracellular vesicles modulate Th1- and STAT1-associated inflammatory responses in peripheral blood mononuclear cells from patients with osteoarthritis",
-      "source": "Molecular Biology Reports",
-      "posted_date": "2026-10-07",
-      "finding": "MSC EVs (20 ug per million PBMCs, 48 h) cut Th1 cell frequency in PBMCs from 10 osteoarthritis patients from about 34% to 27% and lowered STAT1, IL-1 beta, IL-6 and TNF-alpha.",
-      "url": "https://doi.org/10.1007/s11033-026-12850-3",
-      "doi": "10.1007/s11033-026-12850-3",
+      "id": "lctw-003-03",
+      "title": "Dynamic tensile conditioning of mesenchymal stem cell-laden auxetic scaffolds for enhanced YAP-dependent miR-30 enrichment in extracellular vesicles for pulmonary fibrosis therapy",
+      "source": "Biomaterials",
+      "posted_date": "2026-10-15",
+      "finding": "Dynamic stretch on auxetic lung-dECM scaffolds drove YAP nuclear accumulation in MSCs and selective miR-30 enrichment in the resulting EVs; in bleomycin rats those dEVs restored lung architecture and cut collagen, with miR-30 acting on myofibroblasts and M1-to-M2 macrophage switching.",
+      "url": "https://doi.org/10.1016/j.biomaterials.2026.124705",
+      "doi": "10.1016/j.biomaterials.2026.124705",
       "topic_tags": [
         "msc",
         "evs",
-        "immunomodulation",
-        "osteoarthritis",
-        "potency_assay"
+        "mechanobiology",
+        "yap",
+        "mirna",
+        "pulmonary_fibrosis",
+        "manufacturing"
       ],
       "preprint": false
     },
     {
-      "id": "lctw-002-09",
-      "title": "Integrated evaluation of umbilical cord mesenchymal stromal cell-derived extracellular vesicles across skin-related cellular and zebrafish models",
-      "source": "Frontiers in Bioengineering and Biotechnology",
-      "posted_date": "2026-10-09",
-      "finding": "One defined UC-MSC EV preparation reduced oxidative injury in keratinocytes, lowered UVB-induced fibroblast senescence and raised zebrafish fin regeneration from about 60% to 84% at 48 hours.",
-      "url": "https://doi.org/10.3389/fbioe.2026.1939569",
-      "doi": "10.3389/fbioe.2026.1939569",
+      "id": "lctw-003-04",
+      "title": "ATG5-overexpressing MSCs improve ligament healing with an associated shift toward M2 macrophage polarization in aged rats",
+      "source": "Open Medicine",
+      "posted_date": "2026-10-13",
+      "finding": "Aged rats healed medial collateral ligaments poorly and aged MSCs showed low autophagy; ATG5-overexpressing aged MSCs transplanted into injured ligaments were linked to better repair (proliferation, angiogenesis, collagen, biomechanics), less apoptosis, and a shift toward M2 macrophage markers.",
+      "url": "https://doi.org/10.1515/med-2026-1545",
+      "doi": "10.1515/med-2026-1545",
+      "topic_tags": [
+        "msc",
+        "autophagy",
+        "aging",
+        "ligament",
+        "macrophage",
+        "atg5"
+      ],
+      "preprint": false
+    },
+    {
+      "id": "lctw-003-05",
+      "title": "Mesenchymal stromal cells immunosuppress osteoarthritis synovial fluid modulated monocytes via IL-6 and CCL2",
+      "source": "Cell Death & Disease",
+      "posted_date": "2026-10-15",
+      "finding": "KOA synovial fluid pushed CD14+ monocytes into a dysfunctional mixed phenotype with impaired phagocytosis; marrow MSC conditioned medium restored CD163/CD206 up, HLA-DR/CD86 down, STAT3 up and JNK/NF-kB down, cut TNF and IL-1, and restored phagocytosis, with IL-6 block (and to a lesser extent CCL2) partly reversing the MSC effect.",
+      "url": "https://doi.org/10.1038/s41419-026-09194-y",
+      "doi": "10.1038/s41419-026-09194-y",
+      "topic_tags": [
+        "msc",
+        "osteoarthritis",
+        "monocytes",
+        "il6",
+        "ccl2",
+        "potency_assay",
+        "secretome"
+      ],
+      "preprint": false
+    },
+    {
+      "id": "lctw-003-06",
+      "title": "Proteomic and beta-hydroxybutyrylation landscapes reveal AMPK-alpha2-associated modulation in HUCMSC-derived exosome-mediated amelioration of cardiac aging",
+      "source": "Molecular & Cellular Proteomics",
+      "posted_date": "2026-10-15",
+      "finding": "In wild-type aged mice, hUCMSC exosomes improved systolic and diastolic function, grip strength, fibrosis and ATP, with proteomics mapping 1,755 Kbhb sites on 652 proteins; AMPK-alpha2 knockout aged mice got only partial diastolic and mitochondrial rescue without systolic or fibrosis recovery.",
+      "url": "https://doi.org/10.1016/j.mcpro.2026.101680",
+      "doi": "10.1016/j.mcpro.2026.101680",
+      "topic_tags": [
+        "msc",
+        "umbilical_cord_msc",
+        "exosomes",
+        "cardiac_aging",
+        "ampk",
+        "kbhb"
+      ],
+      "preprint": false
+    },
+    {
+      "id": "lctw-003-07",
+      "title": "Adhesive cationic hyaluronic acid loading with small extracellular vesicles from IL-6 activated mesenchymal stem cells improves repair of corrosive esophageal injury",
+      "source": "Materials Today Bio",
+      "posted_date": "2026-10-13",
+      "finding": "IL-6-pretreated UC-MSC small EVs outperformed naive sEVs on fibroblast migration and macrophage inflammation suppression, and when loaded in a cationic hyaluronic acid adhesive hydrogel cut inflammation, oxidative stress, fibrosis and stricture in a rat corrosive esophageal injury model.",
+      "url": "https://doi.org/10.1016/j.mtbio.2026.103706",
+      "doi": "10.1016/j.mtbio.2026.103706",
       "topic_tags": [
         "msc",
         "umbilical_cord_msc",
         "evs",
-        "skin",
-        "photoaging",
-        "zebrafish"
+        "il6_licensing",
+        "hydrogel",
+        "esophageal_injury"
       ],
       "preprint": false
     },
     {
-      "id": "lctw-002-10",
-      "title": "Phase IIa Trial of Locoregional High-Dose Autologous Natural Killer Cell Therapy Combined with Hepatic Arterial Infusion Chemotherapy for Locally Advanced Hepatocellular Carcinoma",
-      "source": "Cancer Research and Treatment",
-      "posted_date": "2026-10-08",
-      "finding": "In 16 evaluable patients with refractory locally advanced liver cancer, hepatic arterial autologous NK infusion after HAIC gave an independently assessed response rate of about 69% and median overall survival of 24 months, with no severe NK-related toxicity.",
-      "url": "https://doi.org/10.4143/crt.2026.0477",
-      "doi": "10.4143/crt.2026.0477",
+      "id": "lctw-003-08",
+      "title": "A trial of exosome rich stem cell secretome as a potential treatment for Hypermobile Ehlers-Danlos Syndrome",
+      "source": "Frontiers in Medicine",
+      "posted_date": "2026-10-14",
+      "finding": "In a 10-patient open-label pilot, IV bone-marrow MSC extracellular-vesicle-enriched secretome (up to four doses over up to five months) had no treatment-related adverse events; the group improved on a 9-criteria symptom score, six of ten had rapid sustained gains, and one extended-treatment responder stayed in apparent remission for 32 months after stopping.",
+      "url": "https://doi.org/10.3389/fmed.2026.1945865",
+      "doi": "10.3389/fmed.2026.1945865",
       "topic_tags": [
-        "nk",
-        "autologous_nk",
+        "secretome",
+        "exosomes",
         "clinical_trial",
-        "hepatocellular_carcinoma",
-        "locoregional"
+        "heds",
+        "bone_marrow_msc"
       ],
       "preprint": false
     },
     {
-      "id": "lctw-002-11",
-      "title": "Fibrinogen depletion prevents non-dissociable cell aggregates of feeder-derived NK cell products",
-      "source": "Frontiers in Immunology",
-      "posted_date": "2026-10-01",
-      "finding": "Macroscopic aggregates in feeder-expanded NK products came from feeder cells plus plasma fibrinogen together, and swapping autologous plasma for a fibrinogen-free serum substitute prevented them without hurting expansion, viability or killing.",
-      "url": "https://doi.org/10.3389/fimmu.2026.1887148",
-      "doi": "10.3389/fimmu.2026.1887148",
+      "id": "lctw-003-09",
+      "title": "Adipose mesenchymal stem cells secreted exosomal miR-26a-5p ameliorate renal fibrosis via inhibiting glycolysis and ferroptosis in renal interstitial fibrosis",
+      "source": "Journal of Cellular and Molecular Medicine",
+      "posted_date": "2026-10-16",
+      "finding": "Adipose MSC exosomes cut UUO mouse renal fibrosis and suppressed tubular glycolysis and ferroptosis; miR-26a-5p was enriched in the exosomes and targeted Pfkfb3, and knocking down miR-26a-5p weakened protection while Pfkfb3 inhibition rescued the loss.",
+      "url": "https://doi.org/10.1111/jcmm.71369",
+      "doi": "10.1111/jcmm.71369",
       "topic_tags": [
-        "nk",
-        "manufacturing",
-        "feeder_cells",
-        "formulation",
-        "aggregation"
+        "msc",
+        "adipose_msc",
+        "exosomes",
+        "mirna",
+        "renal_fibrosis",
+        "ferroptosis"
       ],
       "preprint": false
     },
     {
-      "id": "lctw-002-12",
-      "title": "Functional Exhaustion Limits CAR-NK Therapy in Glioblastoma but Can Be Mitigated by Early Repeated Dosing",
-      "source": "Research Square (preprint)",
-      "posted_date": "2026-10-04",
-      "finding": "B7H3 CAR-NK cells killed glioblastoma faster than CAR-T in vitro but lost function after repeated tumor challenge and failed in mice, while early repeated dosing, not TGF-beta or IL-15 engineering, improved survival.",
-      "url": "https://doi.org/10.21203/rs.3.rs-10808000/v1",
-      "doi": "10.21203/rs.3.rs-10808000/v1",
+      "id": "lctw-003-10",
+      "title": "Safety and biodistribution of NK cell-based immunotherapy in healthy and cancer-bearing humanized-BLT mice",
+      "source": "Critical Reviews in Immunology",
+      "posted_date": "2026-10-13",
+      "finding": "Osteoclast- and probiotic-expanded supercharged NK (sNK) cells killed cancer cells but not primary immune cells, circulated into hu-BLT mouse tissues after adoptive transfer without visible toxicity, and raised peripheral NK percentages in the mice.",
+      "url": "https://doi.org/10.1615/CritRevImmunol.2025060469",
+      "doi": "10.1615/CritRevImmunol.2025060469",
       "topic_tags": [
         "nk",
-        "car_nk",
-        "exhaustion",
-        "dosing",
-        "glioblastoma"
-      ],
-      "preprint": true
-    },
-    {
-      "id": "lctw-002-13",
-      "title": "PTPN22 as a novel therapeutic target: a key intracellular checkpoint for NK cell therapy",
-      "source": "Journal for ImmunoTherapy of Cancer",
-      "posted_date": "2026-10-01",
-      "finding": "Deleting or inhibiting PTPN22 boosted NK and CAR-NK killing and cytokine release, preserved function under TME-like cytokine stress, and prolonged survival in a leukemia xenograft.",
-      "url": "https://doi.org/10.1136/jitc-2026-016896",
-      "doi": "10.1136/jitc-2026-016896",
-      "topic_tags": [
-        "nk",
-        "car_nk",
-        "gene_editing",
-        "checkpoint",
-        "persistence"
+        "supercharged_nk",
+        "biodistribution",
+        "safety",
+        "humanized_mice",
+        "manufacturing"
       ],
       "preprint": false
     },
     {
-      "id": "lctw-002-14",
-      "title": "Targeting HLA-E-NKG2A/CD94 to reverse pyroptosis-induced immunosuppression in HCC enhances NK cell antitumor activity",
-      "source": "Research Square (preprint)",
-      "posted_date": "2026-10-06",
-      "finding": "NK killing caused tumor pyroptosis and IL-10 release that pushed macrophages to an HLA-E-high M2 state, which suppressed NK cells through NKG2A, and blocking that axis restored NK activity in vitro and in mice.",
-      "url": "https://doi.org/10.21203/rs.3.rs-11115596/v1",
-      "doi": "10.21203/rs.3.rs-11115596/v1",
+      "id": "lctw-003-11",
+      "title": "Cytokine-induced killer cells combined with temozolomide suppress glioblastoma progression in an orthotopic model and demonstrate clinical feasibility in recurrent glioblastoma",
+      "source": "Frontiers in Neurology",
+      "posted_date": "2026-10-15",
+      "finding": "Twelve patient-derived CIK products showed effector-memory phenotype with high NKG2D/DNAM-1; in orthotopic LN229 GBM mice TMZ and TMZ+CIK both cut radiance vs control by week 4 (treatment-by-time p=0.0054) without a clear TMZ vs TMZ+CIK gap, and in 12 recurrent GBM patients median PFS was 10.5 months and median OS 14.2 months with stable disease as best response.",
+      "url": "https://doi.org/10.3389/fneur.2026.1895857",
+      "doi": "10.3389/fneur.2026.1895857",
       "topic_tags": [
         "nk",
-        "nkg2a",
-        "hla_e",
-        "macrophage",
-        "hepatocellular_carcinoma"
+        "cik",
+        "glioblastoma",
+        "clinical",
+        "temozolomide"
       ],
-      "preprint": true
+      "preprint": false
     },
     {
-      "id": "lctw-002-15",
-      "title": "Decline of chaperone-mediated autophagy in aging impairs macrophage clearance of senescent cells",
-      "source": "Nature Aging",
-      "posted_date": "2026-10-06",
-      "finding": "Age-related loss of chaperone-mediated autophagy made senescent cells more aged-like and their SASP blocked macrophage clearance, while drug activation of CMA cut senescent cell burden in old mice and eased lung fibrosis.",
-      "url": "https://doi.org/10.1038/s43587-026-01240-w",
-      "doi": "10.1038/s43587-026-01240-w",
+      "id": "lctw-003-12",
+      "title": "Bone marrow macrophage STING signaling is a direct nexus linking marrow adipose expansion to NAD+ depletion and osteogenic decline in skeletal aging",
+      "source": "Advanced Science",
+      "posted_date": "2026-10-15",
+      "finding": "Age-accumulated marrow adipocyte sDPP4 activated TLR4/STING in bone marrow macrophages, driving CD38 upregulation that depleted NMN and impaired neighboring BM-MSC osteogenesis; STING inhibition plus NMN attenuated bone loss in preclinical models, while STING loss helped from mid-life but hurt early development.",
+      "url": "https://doi.org/10.1002/advs.77571",
+      "doi": "10.1002/advs.77571",
       "topic_tags": [
         "senescence",
-        "immune_clearance",
+        "sting",
+        "bone_marrow",
+        "nad",
         "macrophage",
-        "autophagy",
-        "sasp"
+        "msc",
+        "aging"
       ],
       "preprint": false
     },
     {
-      "id": "lctw-002-16",
-      "title": "uPAR-Targeting T Cell Engager Exerts Senolytic Effects in Mice and Non-Human Primates With Serum Aminotransferase Activity as a Safety Monitor",
-      "source": "Aging Cell",
-      "posted_date": "2026-10-01",
-      "finding": "A uPAR-directed T cell engager cleared senescent cells and eased age-related pathology in aged mice and monkeys at low dose, while high doses caused liver toxicity that serum transaminases flagged.",
-      "url": "https://doi.org/10.1111/acel.70742",
-      "doi": "10.1111/acel.70742",
-      "topic_tags": [
-        "senolytic",
-        "upar",
-        "bispecific",
-        "immunotherapy",
-        "non_human_primate"
-      ],
-      "preprint": false
-    },
-    {
-      "id": "lctw-002-17",
-      "title": "Methylation-associated Gene Expression (MaGE): a non-invasive, in vivo measure of cellular senescence",
-      "source": "medRxiv (preprint)",
-      "posted_date": "2026-10-01",
-      "finding": "Blood DNA methylation proxies for p16, p21 and p14ARF expression, tested in 18,859 people, showed 45 significant links to 18 incident diseases and mortality and tracked treatment response in Crohn's disease.",
-      "url": "https://www.medrxiv.org/content/10.64898/2026.09.29.26364335v1",
-      "doi": "10.64898/2026.09.29.26364335",
+      "id": "lctw-003-13",
+      "title": "Paracrine bone-derived senescent secretome is associated with spatially patterned ECM remodeling and altered biomechanics in human brain organoids",
+      "source": "Stem Cells",
+      "posted_date": "2026-10-12",
+      "finding": "Chronic exposure of human cerebral organoids to senescent osteocyte secretome remodeled ECM and mechanics (lower apparent modulus intact; locally elevated modulus in cryosections) and upregulated ECM/inflammatory/senescence programs while suppressing neurodevelopmental and synaptic networks.",
+      "url": "https://doi.org/10.1093/stmcls/sxag057",
+      "doi": "10.1093/stmcls/sxag057",
       "topic_tags": [
         "senescence",
-        "biomarker",
-        "dna_methylation",
-        "p16",
-        "p21",
-        "trial_endpoint"
-      ],
-      "preprint": true
-    },
-    {
-      "id": "lctw-002-18",
-      "title": "Chronic Senolytic Treatment and/or Aerobic Exercise Reduce Senescence and Improve Myocardial Function During Aging in the Heart",
-      "source": "Aging Cell",
-      "posted_date": "2026-10-07",
-      "finding": "Nine months of dasatinib plus quercetin, aerobic exercise, or both in middle-aged mice lowered p16+, p21+ and gamma-H2AX+ heart cells and improved diastolic function, with no clear added benefit from combining them.",
-      "url": "https://doi.org/10.1111/acel.70759",
-      "doi": "10.1111/acel.70759",
-      "topic_tags": [
-        "senolytic",
-        "dasatinib_quercetin",
-        "exercise",
-        "cardiac_aging"
+        "sasp",
+        "osteocyte",
+        "brain_organoid",
+        "ecm",
+        "aging"
       ],
       "preprint": false
+    },
+    {
+      "id": "lctw-003-14",
+      "title": "Reprogramming NOX4-associated ferro-aging with an iron-chelating senescent-cell-targeted therapy for intervertebral disc degeneration",
+      "source": "Bioactive Materials",
+      "posted_date": "2026-10-15",
+      "finding": "A NOX4-linked ferro-aging program in nucleus pulposus cells was targeted with SenoFAN, an amentoflavone-loaded iron-chelating phenolic nanozyme coated with NKG2D-engineered NPC membranes; in a rat puncture IVDD model it preferred ferro-aging NPCs, stayed in the disc longer, cut iron and senescence, and preserved disc structure with favorable biosafety.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.030",
+      "doi": "10.1016/j.bioactmat.2026.09.030",
+      "topic_tags": [
+        "senolytic",
+        "ferroptosis",
+        "nox4",
+        "ivdd",
+        "nanozyme",
+        "targeted_delivery"
+      ],
+      "preprint": false
+    },
+    {
+      "id": "lctw-003-15",
+      "title": "High-fat diet-induced metabolic stress durably reprograms the liver regenerative compartment toward a senescence-like state",
+      "source": "Aging Cell",
+      "posted_date": "2026-10-16",
+      "finding": "Chronic high-fat diet in male rats left a persistent senescence-like state in liver regenerative cells: after CCl4 injury proliferation was reduced, and HFD-derived liver organoids kept low formation/serial propagation, high SA-beta-gal, low Lamin B1 and Ki67 through passage 3; MitoQ partly restored formation efficiency and cut oxidative/inflammatory secretion.",
+      "url": "https://doi.org/10.1111/acel.70769",
+      "doi": "10.1111/acel.70769",
+      "topic_tags": [
+        "senescence",
+        "liver",
+        "regeneration",
+        "high_fat_diet",
+        "organoid",
+        "mitoq"
+      ],
+      "preprint": false
+    },
+    {
+      "id": "lctw-003-16",
+      "title": "Polygonatum sibiricum polysaccharide attenuates BMSC senescence by inhibiting NCOA4-mediated ferritinophagy",
+      "source": "Pharmaceutical Biology",
+      "posted_date": "2026-10-14",
+      "finding": "Polygonatum sibiricum polysaccharide concentration-dependently cut TBH-induced rat BMSC senescence, partly restored osteogenesis and reduced adipogenesis, by lowering NCOA4-driven ferritinophagy, Fe2+ load, mitochondrial ROS and cGAS-STING; NCOA4 overexpression blunted the protection.",
+      "url": "https://doi.org/10.1080/13880209.2026.2746259",
+      "doi": "10.1080/13880209.2026.2746259",
+      "topic_tags": [
+        "msc",
+        "bone_marrow_msc",
+        "senescence",
+        "ferritinophagy",
+        "ncoa4",
+        "natural_product"
+      ],
+      "preprint": false
+    },
+    {
+      "id": "lctw-003-17",
+      "title": "The bile acid receptor TGR5 modulates hippocampal neural stem cell state and ageing",
+      "source": "bioRxiv (preprint)",
+      "posted_date": "2026-10-15",
+      "finding": "TGR5 agonist TC-G 1005 expanded hippocampal NSCs without forcing neurons, released BMP4 quiescence, reopened autophagy, and cut IL-6-driven p53/p16; in 18-month-old mice 5 mg/kg SC twice daily for 28 days expanded SOX2+ and proliferating NSCs, reduced p16, improved spatial memory, and shifted 86 shared proteins toward a younger hippocampal proteome.",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757807v1",
+      "doi": "10.64898/2026.10.08.757807",
+      "topic_tags": [
+        "senescence",
+        "neural_stem_cell",
+        "tgr5",
+        "aging",
+        "hippocampus"
+      ],
+      "preprint": true
     }
   ]
 }
