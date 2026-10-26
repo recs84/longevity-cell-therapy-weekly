@@ -7,7 +7,7 @@
   "cadence": "weekly",
   "home": "https://recs84.github.io/longevity-cell-therapy-weekly/",
   "latest": {
-    "issue": 3,
+    "issue": 4,
     "headlines_json": "https://recs84.github.io/longevity-cell-therapy-weekly/headlines.json",
     "headlines_md": "https://recs84.github.io/longevity-cell-therapy-weekly/headlines.md"
   },
@@ -44,6 +44,17 @@
       "headlines_json": "https://recs84.github.io/longevity-cell-therapy-weekly/issues/003-headlines.json",
       "headlines_md": "https://recs84.github.io/longevity-cell-therapy-weekly/issues/003-headlines.md",
       "item_count": 17
+    },
+    {
+      "issue": 4,
+      "date_range": {
+        "start": "2026-10-19",
+        "end": "2026-10-25",
+        "timezone": "America/Chicago"
+      },
+      "headlines_json": "https://recs84.github.io/longevity-cell-therapy-weekly/issues/004-headlines.json",
+      "headlines_md": "https://recs84.github.io/longevity-cell-therapy-weekly/issues/004-headlines.md",
+      "item_count": 19
     }
   ],
   "tiers": {

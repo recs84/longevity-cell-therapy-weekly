@@ -1,76 +1,84 @@
-# Longevity Cell Therapy Weekly · Issue 3 · free headlines
+# Longevity Cell Therapy Weekly · Issue 4 · free headlines
 
-Window 2026-10-12 to 2026-10-18 (US Central). 17 items. Machine-readable: `003-headlines.json`.
+Window 2026-10-19 to 2026-10-25 (US Central). 19 items. Machine-readable: `004-headlines.json`.
 
 Full structured issue (study type, readouts, manufacturing notes, limitations, evidence rating, why it matters) is the paid tier: coming soon via x402.
 
-**1. [Direct 3D isolation in gelatin methacryloyl microbeads versus conventional 2D isolation and culture: a trade-off between mesenchymal stromal cell purity and niche-associated transcriptional profiles](https://www.biorxiv.org/content/10.64898/2026.10.10.758039v1)**  
-bioRxiv (preprint) · 2026-10-13 · preprint · DOI 10.64898/2026.10.10.758039 · tags: msc, bone_marrow_msc, isolation, 3d_culture, gelma, manufacturing  
-Across four human donors, day-21 2D plastic culture gave a purer MSC marker compartment than bulk GelMA 3D isolation, while one-donor scRNA-seq of GelMA microbead-derived cells (37,784 cells) found niche-associated MSC clusters within a heterogeneous marrow mix (4,840 DEGs vs 2D).
+**1. [Design and validation of a GMP-compliant manufacturing platform of extracellular vesicles from mesenchymal stromal cells](https://doi.org/10.1016/j.isci.2026.117881)**  
+iScience · 2026-10-25 · DOI 10.1016/j.isci.2026.117881 · tags: msc, wharton_jelly, evs, gmp, stirred_tank_bioreactor, tff, sec, manufacturing, stability  
+A GMP-compliant, semi-automated mid-scale workflow (single-use stirred-tank expansion of Wharton's jelly MSCs, tangential flow filtration, automated size-exclusion chromatography, in-line CPP monitoring) produced MSC-EVs that met pre-specified CQAs, with CQAs including CD73-associated immunomodulatory activity holding for 12 months at -80C in PlasmaLyte 148.
 
-**2. [Osteogenic priming of canine perivascular mesenchymal stromal cells enhances extracellular vesicle yield and in vitro activity for bone regeneration](https://doi.org/10.1016/j.tvjl.2026.106932)**  
-Veterinary Journal · 2026-10-14 · DOI 10.1016/j.tvjl.2026.106932 · tags: msc, perivascular_msc, evs, osteogenic_priming, manufacturing, veterinary  
-Osteogenic priming of canine umbilical cord perivascular MSCs raised EV particle yield about 1.5-fold (5.6 +/- 0.5 x 10^10 vs 3.7 +/- 0.7 x 10^10 particles/mL) without changing size distribution or TSG101, and improved mineralization (P=0.0003) and EV-driven migration (P=0.005).
+**2. [Peptide sequence and backbone conjugation chemistry direct alginate hydrogel bioactivity for human mesenchymal stem cell expansion](https://doi.org/10.1021/acs.bioconjchem.6c00209)**  
+Bioconjugate Chemistry · 2026-10-23 · DOI 10.1021/acs.bioconjchem.6c00209 · tags: msc, expansion, alginate, rgd, biomaterials, manufacturing  
+On calcium-crosslinked alginate films, GGFTRGD or CGFTRGD peptides failed to support hMSC expansion, while adding a C-terminal SP (GGFTRGDSP or CGFTRGDSP, closer to native fibronectin) gave robust attachment and a more than 10-fold increase in final cell number; NMR confirmed DMTMM coupling ran through the peptide N-terminus.
 
-**3. [Dynamic tensile conditioning of mesenchymal stem cell-laden auxetic scaffolds for enhanced YAP-dependent miR-30 enrichment in extracellular vesicles for pulmonary fibrosis therapy](https://doi.org/10.1016/j.biomaterials.2026.124705)**  
-Biomaterials · 2026-10-15 · DOI 10.1016/j.biomaterials.2026.124705 · tags: msc, evs, mechanobiology, yap, mirna, pulmonary_fibrosis, manufacturing  
-Dynamic stretch on auxetic lung-dECM scaffolds drove YAP nuclear accumulation in MSCs and selective miR-30 enrichment in the resulting EVs; in bleomycin rats those dEVs restored lung architecture and cut collagen, with miR-30 acting on myofibroblasts and M1-to-M2 macrophage switching.
+**3. [Ion-enriched solution improves the adhesion of freshly thawed umbilical cord-derived mesenchymal stem cells and supports cartilage repair in a rat full-thickness cartilage defect model](https://doi.org/10.1007/s13770-026-00844-y)**  
+Tissue Engineering and Regenerative Medicine · 2026-10-23 · DOI 10.1007/s13770-026-00844-y · tags: msc, umbilical_cord_msc, cryopreservation, thaw_and_inject, formulation, cartilage  
+Freshly thawed UC-MSCs had lower proliferation, metabolic activity and adhesion than culture-recovered cells; an ion-enriched carrier (MgCl2 the main contributor, sodium acetate possibly) raised their adhesion in vitro and on OA cartilage ex vivo, and in rats gave 8-week cartilage repair comparable to culture-recovered UC-MSCs in saline.
 
-**4. [ATG5-overexpressing MSCs improve ligament healing with an associated shift toward M2 macrophage polarization in aged rats](https://doi.org/10.1515/med-2026-1545)**  
-Open Medicine · 2026-10-13 · DOI 10.1515/med-2026-1545 · tags: msc, autophagy, aging, ligament, macrophage, atg5  
-Aged rats healed medial collateral ligaments poorly and aged MSCs showed low autophagy; ATG5-overexpressing aged MSCs transplanted into injured ligaments were linked to better repair (proliferation, angiogenesis, collagen, biomechanics), less apoptosis, and a shift toward M2 macrophage markers.
+**4. [Cell cryoisolation and cryopreservation without any organic solvent](https://doi.org/10.1021/acs.biomac.6c00813)**  
+Biomacromolecules · 2026-10-23 · DOI 10.1021/acs.biomac.6c00813 · tags: cryopreservation, dmso_free, trehalose, aptamer, msc, cell_isolation, manufacturing  
+Aptamer-targeted DNA nanohydrogels delivering trehalose into cells within 2 h gave post-thaw viability comparable to DMSO with 67% fewer differentially expressed genes, extended to MSCs, and used differential freeze-thaw survival to isolate target cells label-free at more than 95% purity.
 
-**5. [Mesenchymal stromal cells immunosuppress osteoarthritis synovial fluid modulated monocytes via IL-6 and CCL2](https://doi.org/10.1038/s41419-026-09194-y)**  
-Cell Death & Disease · 2026-10-15 · DOI 10.1038/s41419-026-09194-y · tags: msc, osteoarthritis, monocytes, il6, ccl2, potency_assay, secretome  
-KOA synovial fluid pushed CD14+ monocytes into a dysfunctional mixed phenotype with impaired phagocytosis; marrow MSC conditioned medium restored CD163/CD206 up, HLA-DR/CD86 down, STAT3 up and JNK/NF-kB down, cut TNF and IL-1, and restored phagocytosis, with IL-6 block (and to a lesser extent CCL2) partly reversing the MSC effect.
+**5. [Quantifying punctate morphology in mesenchymal stem cells from single cell images provides a definitive quality assessment pipeline for direct correlation to osteogenic lineage differentiation](https://www.biorxiv.org/content/10.64898/2026.10.22.760947v1)**  
+bioRxiv (preprint) · 2026-10-23 · preprint · DOI 10.64898/2026.10.22.760947 · tags: msc, dental_pulp_msc, senescence, imaging, quality_control, potency_assay  
+The authors extend an image-based single-cell pipeline (MSCProfiler) to combine bright-field shape features with SA-beta-gal punctate staining across early, mid and late passages of dental pulp MSCs, and relate puncta morphology to osteogenic differentiation capacity.
 
-**6. [Proteomic and beta-hydroxybutyrylation landscapes reveal AMPK-alpha2-associated modulation in HUCMSC-derived exosome-mediated amelioration of cardiac aging](https://doi.org/10.1016/j.mcpro.2026.101680)**  
-Molecular & Cellular Proteomics · 2026-10-15 · DOI 10.1016/j.mcpro.2026.101680 · tags: msc, umbilical_cord_msc, exosomes, cardiac_aging, ampk, kbhb  
-In wild-type aged mice, hUCMSC exosomes improved systolic and diastolic function, grip strength, fibrosis and ATP, with proteomics mapping 1,755 Kbhb sites on 652 proteins; AMPK-alpha2 knockout aged mice got only partial diastolic and mitochondrial rescue without systolic or fibrosis recovery.
+**6. [A circRNA platform for safe partial reprogramming and rejuvenation of mesenchymal stem cells without pluripotent conversion](https://doi.org/10.1186/s13287-026-05193-0)**  
+Stem Cell Research & Therapy · 2026-10-22 · DOI 10.1186/s13287-026-05193-0 · tags: msc, partial_reprogramming, circrna, lnp, osk, senescence, rejuvenation, manufacturing  
+LNP-delivered circRNA co-expressing OCT4, SOX2 and KLF4 (circ-OSK) rejuvenated late-passage MSCs (lower SA-beta-gal, DNA damage and inflammatory cytokines; proliferation, migration and tri-lineage capacity restored to early-passage levels) without pluripotent conversion by ESRG ddPCR, with MSC markers and genome stability preserved by RNA-seq and SNP array.
 
-**7. [Adhesive cationic hyaluronic acid loading with small extracellular vesicles from IL-6 activated mesenchymal stem cells improves repair of corrosive esophageal injury](https://doi.org/10.1016/j.mtbio.2026.103706)**  
-Materials Today Bio · 2026-10-13 · DOI 10.1016/j.mtbio.2026.103706 · tags: msc, umbilical_cord_msc, evs, il6_licensing, hydrogel, esophageal_injury  
-IL-6-pretreated UC-MSC small EVs outperformed naive sEVs on fibroblast migration and macrophage inflammation suppression, and when loaded in a cationic hyaluronic acid adhesive hydrogel cut inflammation, oxidative stress, fibrosis and stricture in a rat corrosive esophageal injury model.
+**7. [Osteogenic culture of human adipose stem cells on electrospun multispiral poly(e-caprolactone)/beta-tricalcium phosphate composite scaffold in a perfusion bioreactor](https://doi.org/10.1016/j.jbiosc.2026.09.009)**  
+Journal of Bioscience and Bioengineering · 2026-10-22 · DOI 10.1016/j.jbiosc.2026.09.009 · tags: msc, adipose_msc, perfusion_bioreactor, scaffold, bone, manufacturing  
+Over 28 days, hASCs on multispiral PCL/beta-TCP scaffolds in a perfusion bioreactor (4.375 mL/min per channel) produced significantly more mineralized matrix and better mechanical performance than static culture, with robust viability in both.
 
-**8. [A trial of exosome rich stem cell secretome as a potential treatment for Hypermobile Ehlers-Danlos Syndrome](https://doi.org/10.3389/fmed.2026.1945865)**  
-Frontiers in Medicine · 2026-10-14 · DOI 10.3389/fmed.2026.1945865 · tags: secretome, exosomes, clinical_trial, heds, bone_marrow_msc  
-In a 10-patient open-label pilot, IV bone-marrow MSC extracellular-vesicle-enriched secretome (up to four doses over up to five months) had no treatment-related adverse events; the group improved on a 9-criteria symptom score, six of ten had rapid sustained gains, and one extended-treatment responder stayed in apparent remission for 32 months after stopping.
+**8. [Pulsed focused ultrasound-mediated mechanopriming enhances the therapeutic efficacy of mesenchymal stromal cell-derived extracellular vesicles in acute respiratory distress syndrome](https://doi.org/10.1002/jev2.70380)**  
+Journal of Extracellular Vesicles · 2026-10-25 · DOI 10.1002/jev2.70380 · tags: msc, umbilical_cord_msc, evs, mechanopriming, ultrasound, ards, manufacturing  
+A single 1-minute pulsed focused ultrasound exposure of UC-MSCs raised EV concentration 1.9-fold without changing size, via calcium-dependent ESCRT upregulation (blocked by EGTA); primed EVs carried more mitochondrial OXPHOS proteins and, in juvenile LPS-ARDS, beat unprimed EVs on barrier integrity, BAL protein, cytokines, neutrophils and histology, with lower serum IgG binding.
 
-**9. [Adipose mesenchymal stem cells secreted exosomal miR-26a-5p ameliorate renal fibrosis via inhibiting glycolysis and ferroptosis in renal interstitial fibrosis](https://doi.org/10.1111/jcmm.71369)**  
-Journal of Cellular and Molecular Medicine · 2026-10-16 · DOI 10.1111/jcmm.71369 · tags: msc, adipose_msc, exosomes, mirna, renal_fibrosis, ferroptosis  
-Adipose MSC exosomes cut UUO mouse renal fibrosis and suppressed tubular glycolysis and ferroptosis; miR-26a-5p was enriched in the exosomes and targeted Pfkfb3, and knocking down miR-26a-5p weakened protection while Pfkfb3 inhibition rescued the loss.
+**9. [Increased EV yield and bioactivity of matrix-bound nanovesicles compared to conditioned culture medium-derived extracellular vesicles](https://www.biorxiv.org/content/10.64898/2026.10.21.760728v1)**  
+bioRxiv (preprint) · 2026-10-23 · preprint · DOI 10.64898/2026.10.21.760728 · tags: msc, evs, matrix_bound_nanovesicles, isolation, sec, ultracentrifugation, manufacturing  
+From the same MSC cultures, matrix-bound nanovesicles out-yielded medium EVs 15.6-fold by ultracentrifugation and 7.49-fold by SEC, SEC beat UC for both, day 24 gave the most MBVs, and in a fibroblast scratch assay medium EVs slowed wound closure versus control while MBVs did not.
 
-**10. [Safety and biodistribution of NK cell-based immunotherapy in healthy and cancer-bearing humanized-BLT mice](https://doi.org/10.1615/CritRevImmunol.2025060469)**  
-Critical Reviews in Immunology · 2026-10-13 · DOI 10.1615/CritRevImmunol.2025060469 · tags: nk, supercharged_nk, biodistribution, safety, humanized_mice, manufacturing  
-Osteoclast- and probiotic-expanded supercharged NK (sNK) cells killed cancer cells but not primary immune cells, circulated into hu-BLT mouse tissues after adoptive transfer without visible toxicity, and raised peripheral NK percentages in the mice.
+**10. [Protective effects of PD-L1-overexpressing MSCs and their derived extracellular vesicles in type 1 diabetes](https://doi.org/10.2337/db25-0732)**  
+Diabetes · 2026-10-23 · DOI 10.2337/db25-0732 · tags: msc, evs, pd_l1, engineered_msc, type1_diabetes, tregs  
+PD-L1-overexpressing MSCs and their EVs both suppressed T-cell activity, expanded regulatory T cells, delayed diabetes onset and reduced islet immune infiltration.
 
-**11. [Cytokine-induced killer cells combined with temozolomide suppress glioblastoma progression in an orthotopic model and demonstrate clinical feasibility in recurrent glioblastoma](https://doi.org/10.3389/fneur.2026.1895857)**  
-Frontiers in Neurology · 2026-10-15 · DOI 10.3389/fneur.2026.1895857 · tags: nk, cik, glioblastoma, clinical, temozolomide  
-Twelve patient-derived CIK products showed effector-memory phenotype with high NKG2D/DNAM-1; in orthotopic LN229 GBM mice TMZ and TMZ+CIK both cut radiance vs control by week 4 (treatment-by-time p=0.0054) without a clear TMZ vs TMZ+CIK gap, and in 12 recurrent GBM patients median PFS was 10.5 months and median OS 14.2 months with stable disease as best response.
+**11. [HucMSC-EVs attenuate renal fibrosis via miR-874-3p-mediated inhibition of cGAS-STING signaling](https://doi.org/10.1007/s10565-026-10249-1)**  
+Cell Biology and Toxicology · 2026-10-23 · DOI 10.1007/s10565-026-10249-1 · tags: msc, umbilical_cord_msc, evs, kidney, fibrosis, cgas_sting, mirna  
+Umbilical cord MSC-EVs reduced EMT and fibrosis in cisplatin-injured HK-2 cells and UUO kidneys by lowering mitochondrial ROS and mPTP opening and suppressing cGAS-STING (confirmed with STING inhibitor C-176), with miR-874-3p overexpression partly reproducing the effect.
 
-**12. [Bone marrow macrophage STING signaling is a direct nexus linking marrow adipose expansion to NAD+ depletion and osteogenic decline in skeletal aging](https://doi.org/10.1002/advs.77571)**  
-Advanced Science · 2026-10-15 · DOI 10.1002/advs.77571 · tags: senescence, sting, bone_marrow, nad, macrophage, msc, aging  
-Age-accumulated marrow adipocyte sDPP4 activated TLR4/STING in bone marrow macrophages, driving CD38 upregulation that depleted NMN and impaired neighboring BM-MSC osteogenesis; STING inhibition plus NMN attenuated bone loss in preclinical models, while STING loss helped from mid-life but hurt early development.
+**12. [Age-associated remodeling of NK cell subsets, B cell subsets, and T cell surface markers in peripheral blood of healthy Chinese adults: a prospective multicolor flow cytometry study](https://doi.org/10.3389/fragi.2026.1847033)**  
+Frontiers in Aging · 2026-10-25 · DOI 10.3389/fragi.2026.1847033 · tags: nk_cells, immunosenescence, aging, flow_cytometry, pd1, reference_ranges  
+In 103 healthy adults aged 20 to 82, total NK frequency rose with age (r = +0.259) while CD56hi CD16- regulatory NK cells fell (r = -0.263) and NK PD-1 rose (r = +0.256); CD8 TEMRA accumulation, CD28 loss and naive depletion were the strongest signals in a second panel of 43.
 
-**13. [Paracrine bone-derived senescent secretome is associated with spatially patterned ECM remodeling and altered biomechanics in human brain organoids](https://doi.org/10.1093/stmcls/sxag057)**  
-Stem Cells · 2026-10-12 · DOI 10.1093/stmcls/sxag057 · tags: senescence, sasp, osteocyte, brain_organoid, ecm, aging  
-Chronic exposure of human cerebral organoids to senescent osteocyte secretome remodeled ECM and mechanics (lower apparent modulus intact; locally elevated modulus in cryosections) and upregulated ECM/inflammatory/senescence programs while suppressing neurodevelopmental and synaptic networks.
+**13. [Donor-derived unlicensed NK cells promote the hematopoietic engraftment and survival after allogeneic hematopoietic stem cell transplantation](https://doi.org/10.1016/j.scib.2026.10.003)**  
+Science Bulletin · 2026-10-23 · DOI 10.1016/j.scib.2026.10.003 · tags: nk_cells, unlicensed_nk, hsct, engraftment, donor_selection  
+In 976 haploidentical HSCT patients after myeloablative conditioning (with a propensity-matched validation), donor-derived unlicensed NK cells independently predicted faster engraftment, lower treatment-related mortality and better overall survival regardless of recipient HLA; U-NK cells boosted HSPC colony formation in vitro and infused U-NK cells sped neutrophil and platelet engraftment in vivo.
 
-**14. [Reprogramming NOX4-associated ferro-aging with an iron-chelating senescent-cell-targeted therapy for intervertebral disc degeneration](https://doi.org/10.1016/j.bioactmat.2026.09.030)**  
-Bioactive Materials · 2026-10-15 · DOI 10.1016/j.bioactmat.2026.09.030 · tags: senolytic, ferroptosis, nox4, ivdd, nanozyme, targeted_delivery  
-A NOX4-linked ferro-aging program in nucleus pulposus cells was targeted with SenoFAN, an amentoflavone-loaded iron-chelating phenolic nanozyme coated with NKG2D-engineered NPC membranes; in a rat puncture IVDD model it preferred ferro-aging NPCs, stayed in the disc longer, cut iron and senescence, and preserved disc structure with favorable biosafety.
+**14. [A DNA-scaffolded natural killer cell with adaptable multimodules for enhanced immunotherapy and early efficiency reporting](https://doi.org/10.1021/acsnano.6c10559)**  
+ACS Nano · 2026-10-23 · DOI 10.1021/acsnano.6c10559 · tags: nk_cells, cell_surface_engineering, il21, granzyme_b, imaging, adoptive_cell_therapy  
+NK cells wrapped in a DNA scaffold carrying oxygen-generating enzymes, GSH-released IL-21 nanoparticles and a granzyme B-activated NIR probe showed better tumor infiltration and in vivo efficacy, with a fluorescence response readout as early as 6 h after infusion.
 
-**15. [High-fat diet-induced metabolic stress durably reprograms the liver regenerative compartment toward a senescence-like state](https://doi.org/10.1111/acel.70769)**  
-Aging Cell · 2026-10-16 · DOI 10.1111/acel.70769 · tags: senescence, liver, regeneration, high_fat_diet, organoid, mitoq  
-Chronic high-fat diet in male rats left a persistent senescence-like state in liver regenerative cells: after CCl4 injury proliferation was reduced, and HFD-derived liver organoids kept low formation/serial propagation, high SA-beta-gal, low Lamin B1 and Ki67 through passage 3; MitoQ partly restored formation efficiency and cut oxidative/inflammatory secretion.
+**15. [Decreased NK cell-mediated cytotoxicity is associated with hypoalbuminemia in hemodialysis patients](https://doi.org/10.21203/rs.3.rs-10642697/v1)**  
+Research Square (preprint) · 2026-10-19 · preprint · DOI 10.21203/rs.3.rs-10642697/v1 · tags: nk_cells, cytotoxicity, hemodialysis, ckd, immunosenescence, albumin  
+In 30 hemodialysis patients versus 30 controls, NK cells showed subset and receptor changes distinct from normal aging (mapped in 44 healthy people) and reduced cytotoxicity, and patients with higher NK cytotoxicity had significantly higher albumin.
 
-**16. [Polygonatum sibiricum polysaccharide attenuates BMSC senescence by inhibiting NCOA4-mediated ferritinophagy](https://doi.org/10.1080/13880209.2026.2746259)**  
-Pharmaceutical Biology · 2026-10-14 · DOI 10.1080/13880209.2026.2746259 · tags: msc, bone_marrow_msc, senescence, ferritinophagy, ncoa4, natural_product  
-Polygonatum sibiricum polysaccharide concentration-dependently cut TBH-induced rat BMSC senescence, partly restored osteogenesis and reduced adipogenesis, by lowering NCOA4-driven ferritinophagy, Fe2+ load, mitochondrial ROS and cGAS-STING; NCOA4 overexpression blunted the protection.
+**16. [NK cell immune fitness stratifies small cell lung cancer into four functional states associated with clinical response](https://doi.org/10.1016/j.jlb.2026.100506)**  
+Journal of Liquid Biopsy · 2026-10-19 · DOI 10.1016/j.jlb.2026.100506 · tags: nk_cells, cd16, sclc, biomarker, liquid_biopsy, immunotherapy  
+In SCLC patients profiled before and after cisplatin, responders had strong interferon signaling and CD16+ cytotoxic NK1 enrichment linked to longer progression-free survival, non-responders were NK3-quiescent, CD16 but not CD56 predicted survival in tumor infiltrates, and an NK fitness signature defined four immune states.
 
-**17. [The bile acid receptor TGR5 modulates hippocampal neural stem cell state and ageing](https://www.biorxiv.org/content/10.64898/2026.10.08.757807v1)**  
-bioRxiv (preprint) · 2026-10-15 · preprint · DOI 10.64898/2026.10.08.757807 · tags: senescence, neural_stem_cell, tgr5, aging, hippocampus  
-TGR5 agonist TC-G 1005 expanded hippocampal NSCs without forcing neurons, released BMP4 quiescence, reopened autophagy, and cut IL-6-driven p53/p16; in 18-month-old mice 5 mg/kg SC twice daily for 28 days expanded SOX2+ and proliferating NSCs, reduced p16, improved spatial memory, and shifted 86 shared proteins toward a younger hippocampal proteome.
+**17. [Aged microenvironment-triggered nanoreactors rejuvenate senescent LepR+ cells to remodel aged bone marrow](https://doi.org/10.1016/j.mtbio.2026.103751)**  
+Materials Today Bio · 2026-10-25 · DOI 10.1016/j.mtbio.2026.103751 · tags: senescence, bone_marrow, lepr_stromal_cells, nitric_oxide, magnesium, ros, nanomedicine, osteoporosis  
+Senescent LepR+ marrow stromal cells sustain a loop of low NO, low Mg2+ and rising ROS; a senescent-cell-membrane-coated nanoreactor releasing NO and Mg2+ while scavenging ROS targeted LepR+ cells, reduced senescence phenotypes and improved aged marrow regeneration, with RNA-seq supporting loop disruption.
+
+**18. [Pharmacological depletion of macrophages leads to a reduction in inflammation and senescence in aged murine kidneys](https://doi.org/10.1016/j.imbio.2026.153259)**  
+Immunobiology · 2026-10-22 · DOI 10.1016/j.imbio.2026.153259 · tags: senescence, macrophages, csf1r, kidney, aging, inflammaging  
+In aged mice, low-dose CSF1R inhibitor PLX5622 partly reduced kidney macrophages and significantly lowered IL-6, TNF-alpha, CX3CR1, p16 and SA-beta-gal without raising blood urea nitrogen, whereas high-dose depletion raised BUN.
+
+**19. [CD38 drives cellular senescence and ischemia-reperfusion injury in donor lungs](https://doi.org/10.21203/rs.3.rs-10988445/v1)**  
+Research Square (preprint) · 2026-10-21 · preprint · DOI 10.21203/rs.3.rs-10988445/v1 · tags: senescence, cd38, nad, sasp, lung_transplant, ischemia_reperfusion  
+CD38 in human donor lungs rose with donor age and ischemic stress, especially in DCD grafts, tracking SASP signaling; in mouse lung IRI, CD38 deletion or inhibition preserved NAD+, cut SASP mediators and injury and improved mechanics, and CD38 knockdown in HUVECs blunted oxidative-stress senescence.
 
 ---
 
